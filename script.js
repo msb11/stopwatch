@@ -34,7 +34,7 @@ function start() {
     }
 
     putValue();
-  }, 10); //1000ms = 1s
+  }, 10);
 }
 
 function stop() {
